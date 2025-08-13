@@ -1,0 +1,17 @@
+{
+  "title": "Joyboy",
+  "author": "Joyboy",
+  "examples": [
+    "1:- Click salin id",
+    "2:- kirim ke admin",
+    "3:- tunggu",
+    "4:- enjoy"
+  ],
+  "alphabet_line": "Joyboy",
+  "join_telegram": "https://t.me/playerbehindthescene",
+  "android_ids": [
+    {"id": "ed0c3f2e4f55e066", "day": 1},
+    {"id": "08016bfa18f45f81", "day": 11},
+    {"id": "1122334455667788", "day": 45}
+  ]
+}
